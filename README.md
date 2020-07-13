@@ -21,7 +21,7 @@ In this project, Stack Overflow Developer Survey, 2017 is chosen as the dataset 
 *	comparison between the salary in the GCC countries (Arab Gulf countries) with the rest of the other locations.
 ## File Descriptions <a class="anchor" id="3"></a>
 *	Jupyter Notebook
-*	Datasets: <a href="www.https://www.kaggle.com/stackoverflow/so-survey-2017/data">Showing Text</a>
+*	Datasets: <a href="www.kaggle.com/stackoverflow/so-survey-2017/data">Stack Overflow Developer Survey 2017.</a>
 ## Results <a class="anchor" id="4"></a>
 The main findings of the code can be found at the post available here.
 ## Licensing, Authors, and Acknowledgements <a class="anchor" id="5"></a>
