@@ -25,5 +25,6 @@ In this project, Stack Overflow Developer Survey, 2017 is chosen as the dataset 
 ## Results <a class="anchor" id="4"></a>
 The main findings of the code can be found at the post available here.
 ## Licensing, Authors, and Acknowledgements <a class="anchor" id="5"></a>
-Must give credit to Udacity courses for some code ideas, and to kaggle , Stack Overflow for the data. The Licensing of data and other descriptive information can be found at the Kaggle link available here.
+Must give credit to Udacity courses for some code ideas, and to kaggle , Stack Overflow for the data. The Licensing of data and other descriptive information can be found at the Kaggle link available <a href="https://www.kaggle.com/">here.</a>
+
 Otherwise, feel free to use the code here as you would like!
