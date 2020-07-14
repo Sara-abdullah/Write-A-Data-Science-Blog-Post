@@ -23,7 +23,7 @@ In this project, Stack Overflow Developer Survey, 2017 is chosen as the dataset 
 *	Jupyter Notebook
 *	Datasets: <a href="www.kaggle.com/stackoverflow/so-survey-2017/data">Stack Overflow Developer Survey 2017.</a>
 ## Results <a class="anchor" id="4"></a>
-The main findings of the code can be found at the post available here.
+The main findings of the code can be found at the post available <a href="https://medium.com/@sarahalkohadir/salary-based-on-location-653b1a025b5f">here.</a>
 ## Licensing, Authors, and Acknowledgements <a class="anchor" id="5"></a>
 Must give credit to Udacity courses for some code ideas, and to kaggle , Stack Overflow for the data. The Licensing of data and other descriptive information can be found at the Kaggle link available <a href="https://www.kaggle.com/">here.</a>
 
